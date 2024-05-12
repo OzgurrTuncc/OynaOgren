@@ -369,16 +369,10 @@
 "Assets/Brick Project Studio/_BPS Basic Assets/Common/Scripts and Animations/Doors/opencloseStallDoor.cs"
 "Assets/Brick Project Studio/_BPS Basic Assets/Common/Scripts and Animations/Drawer/X Axis/Drawer_Pull_X.cs"
 "Assets/Brick Project Studio/_BPS Basic Assets/Common/Scripts and Animations/Drawer/Z Axis/Drawer_Pull_Z.cs"
-"Assets/Brick Project Studio/_BPS Basic Assets/Common/Scripts and Animations/First Person Player/MouseLook.cs"
-"Assets/Brick Project Studio/_BPS Basic Assets/Common/Scripts and Animations/First Person Player/PlayerMovement.cs"
-"Assets/Brick Project Studio/_BPS Basic Assets/Common/Scripts and Animations/First Person Player/SceneSwitchGen.cs"
 "Assets/Brick Project Studio/_BPS Basic Assets/Common/Scripts and Animations/Windows/opencloseWindow.cs"
 "Assets/Brick Project Studio/_BPS Basic Assets/Common/Scripts and Animations/Windows/opencloseWindow1.cs"
-"Assets/Free Wood Door Pack/Script/CameraOpenDoor.cs"
-"Assets/Free Wood Door Pack/Script/Door.cs"
-"Assets/Free Wood Door Pack/Script/FPSController.cs"
-"Assets/KidsCharacterFree/Scripts/KidsScript.cs"
-"Assets/script_O/MouseImput.cs"
+"Assets/script_O/MouseInput.cs"
+"Assets/script_O/PlayerController.cs"
 -langversion:9.0
 
 /deterministic

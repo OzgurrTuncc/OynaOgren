@@ -6,8 +6,10 @@ using UnityEngine.Jobs;
 public class PlayerController : MonoBehaviour
 {
     public CharacterController characterController;
-    public float speed = 7f;
+    public float speed = 4f;
     public float gravity = -15f;
+    public float velocity = 1f;
+    public Rigidbody rgb3d;
 
     private Vector3 gravityVector;
     //GroundCheeck
@@ -17,7 +19,7 @@ public class PlayerController : MonoBehaviour
 
     public bool isGrounded;
 
-    public float jumpSpeed = 0.1f;
+    public float jumpSpeed = 0.05f;
 
 
     // Start is called before the first frame update

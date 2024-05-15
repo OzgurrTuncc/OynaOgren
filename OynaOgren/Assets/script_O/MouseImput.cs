@@ -5,7 +5,7 @@ using UnityEngine;
 public class MouseImput : MonoBehaviour
 {
     public Transform player;
-    public float mouseSens = 200f;
+    public float mouseSens = 25f;
 
     private float xRotation;
 
@@ -13,7 +13,7 @@ public class MouseImput : MonoBehaviour
     // Start is called before the first frame update
     void Awake()
     {
-        Cursor.lockState = CursorLockMode.Locked;
+        Cursor.lockState = CursorLockMode.Locked; 
     }
 
     // Update is called once per frame

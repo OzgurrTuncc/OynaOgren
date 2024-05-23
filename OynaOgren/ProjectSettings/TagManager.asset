@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - door
+  - takeAble
+  - pivot
+  - bag
   layers:
   - Default
   - TransparentFX

@@ -1,6 +1,5 @@
 sceneSetups:
-- path: Assets/Palmov Island/Low Poly Houses Free Pack/Scenes/Low Poly City Mega
-    Pack Free.unity
+- path: Assets/Scenes/Anaoyun.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

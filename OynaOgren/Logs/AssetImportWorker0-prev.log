@@ -1,0 +1,2132 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.21f1 (bf09ca542b87) revision 12519882'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit CoreSingleLanguage' Language: 'tr' Physical Memory: 16173 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.21f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/MONSTER/OneDrive/Masaüstü/git_oyunlarım/OynaOgren/OynaOgren
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50393
+Successfully changed project path to: C:/Users/MONSTER/OneDrive/Masaüstü/git_oyunlarım/OynaOgren/OynaOgren
+C:/Users/MONSTER/OneDrive/Masaüstü/git_oyunlarım/OynaOgren/OynaOgren
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [15840] Host "[IP] 192.168.0.12 [Port] 0 [Flags] 2 [Guid] 1824037181 [EditorId] 1824037181 [Version] 1048832 [Id] WindowsEditor(7,MrBita) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [15840] Host "[IP] 192.168.0.12 [Port] 0 [Flags] 2 [Guid] 1824037181 [EditorId] 1824037181 [Version] 1048832 [Id] WindowsEditor(7,MrBita) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 7 workers.
+Refreshing native plugins compatible for Editor in 9.35 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.21f1 (bf09ca542b87)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.21f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/MONSTER/OneDrive/Masaüstü/git_oyunlarım/OynaOgren/OynaOgren/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 Ti (ID=0x1f95)
+    Vendor:   NVIDIA
+    VRAM:     3935 MB
+    Driver:   31.0.15.5244
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.21f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.21f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.21f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56892
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.21f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.21f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.21f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.016687 seconds.
+- Loaded All Assemblies, in  0.585 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 407 ms
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.966 seconds
+Domain Reload Profiling: 1548ms
+	BeginReloadAssembly (164ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (56ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (96ms)
+	LoadAllAssembliesAndSetupDomain (249ms)
+		LoadAssemblies (162ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (246ms)
+			TypeCache.Refresh (244ms)
+				TypeCache.ScanAssembly (224ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (966ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (874ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (605ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (5ms)
+			ProcessInitializeOnLoadAttributes (180ms)
+			ProcessInitializeOnLoadMethodAttributes (79ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.994 seconds
+Refreshing native plugins compatible for Editor in 5.55 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.484 seconds
+Domain Reload Profiling: 2472ms
+	BeginReloadAssembly (233ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (21ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (33ms)
+	RebuildCommonClasses (48ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (69ms)
+	LoadAllAssembliesAndSetupDomain (623ms)
+		LoadAssemblies (467ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (279ms)
+			TypeCache.Refresh (244ms)
+				TypeCache.ScanAssembly (219ms)
+			ScanForSourceGeneratedMonoScriptInfo (23ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (1485ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1239ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (46ms)
+			SetLoadedEditorAssemblies (6ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (140ms)
+			ProcessInitializeOnLoadAttributes (1000ms)
+			ProcessInitializeOnLoadMethodAttributes (36ms)
+			AfterProcessingInitializeOnLoad (11ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 4.84 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3166 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 32 unused Assets / (58.0 KB). Loaded Objects now: 3636.
+Memory consumption went from 136.4 MB to 136.3 MB.
+Total: 4.423600 ms (FindLiveObjects: 0.486800 ms CreateObjectMapping: 0.385900 ms MarkObjects: 3.418500 ms  DeleteObjects: 0.130900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 97182.065583 seconds.
+  path: Assets/fire.truck.fbx
+  artifactKey: Guid(50a897210e0e47042b936ab6b683d29e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/fire.truck.fbx using Guid(50a897210e0e47042b936ab6b683d29e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f98623da381538101e0c05217df807a') in 0.181589 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 182.887066 seconds.
+  path: Assets/materials/New Material 6.mat
+  artifactKey: Guid(b2393ece38c27d743aacb9d6d8c70e37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materials/New Material 6.mat using Guid(b2393ece38c27d743aacb9d6d8c70e37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ca1d40902c872886336672cefee47ef') in 0.018987 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 13.972955 seconds.
+  path: Assets/materials/kimlik.mat
+  artifactKey: Guid(e4928d0485e187e479d11c7ab9212059) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materials/kimlik.mat using Guid(e4928d0485e187e479d11c7ab9212059) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c2d4cc8e6aabf4f43d244adec263bf6') in 0.014816 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 11.969873 seconds.
+  path: Assets/materials/123456789.png
+  artifactKey: Guid(eceb42a910cd4ea49a545a10a04e2e20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materials/123456789.png using Guid(eceb42a910cd4ea49a545a10a04e2e20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '408a6750632546050ee2589ec03959a0') in 0.039338 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.606 seconds
+Refreshing native plugins compatible for Editor in 4.11 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.530 seconds
+Domain Reload Profiling: 2132ms
+	BeginReloadAssembly (199ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (48ms)
+	RebuildCommonClasses (55ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (48ms)
+	LoadAllAssembliesAndSetupDomain (285ms)
+		LoadAssemblies (373ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (16ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (1530ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (930ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (43ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (121ms)
+			ProcessInitializeOnLoadAttributes (721ms)
+			ProcessInitializeOnLoadMethodAttributes (30ms)
+			AfterProcessingInitializeOnLoad (11ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Refreshing native plugins compatible for Editor in 10.40 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3143 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (31.2 KB). Loaded Objects now: 3684.
+Memory consumption went from 132.4 MB to 132.3 MB.
+Total: 5.223400 ms (FindLiveObjects: 0.384500 ms CreateObjectMapping: 0.379200 ms MarkObjects: 4.361800 ms  DeleteObjects: 0.096300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.523 seconds
+Refreshing native plugins compatible for Editor in 5.19 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.552 seconds
+Domain Reload Profiling: 2072ms
+	BeginReloadAssembly (169ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (38ms)
+	RebuildCommonClasses (37ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (33ms)
+	LoadAllAssembliesAndSetupDomain (268ms)
+		LoadAssemblies (344ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (14ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (1553ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (929ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (49ms)
+			SetLoadedEditorAssemblies (7ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (127ms)
+			ProcessInitializeOnLoadAttributes (706ms)
+			ProcessInitializeOnLoadMethodAttributes (29ms)
+			AfterProcessingInitializeOnLoad (11ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Refreshing native plugins compatible for Editor in 5.29 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3144 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (31.1 KB). Loaded Objects now: 3687.
+Memory consumption went from 134.6 MB to 134.5 MB.
+Total: 3.622000 ms (FindLiveObjects: 0.409400 ms CreateObjectMapping: 0.354400 ms MarkObjects: 2.807800 ms  DeleteObjects: 0.048000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.540 seconds
+Refreshing native plugins compatible for Editor in 4.12 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.542 seconds
+Domain Reload Profiling: 2079ms
+	BeginReloadAssembly (176ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (37ms)
+	RebuildCommonClasses (42ms)
+	RebuildNativeTypeToScriptingClass (18ms)
+	initialDomainReloadingComplete (37ms)
+	LoadAllAssembliesAndSetupDomain (264ms)
+		LoadAssemblies (346ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (14ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (1543ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (919ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (37ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (119ms)
+			ProcessInitializeOnLoadAttributes (719ms)
+			ProcessInitializeOnLoadMethodAttributes (27ms)
+			AfterProcessingInitializeOnLoad (11ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Refreshing native plugins compatible for Editor in 4.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3144 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (31.2 KB). Loaded Objects now: 3690.
+Memory consumption went from 136.5 MB to 136.5 MB.
+Total: 5.495200 ms (FindLiveObjects: 0.407500 ms CreateObjectMapping: 0.409700 ms MarkObjects: 4.595000 ms  DeleteObjects: 0.081000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.703 seconds
+Refreshing native plugins compatible for Editor in 5.41 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.832 seconds
+Domain Reload Profiling: 2529ms
+	BeginReloadAssembly (245ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (12ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (50ms)
+	RebuildCommonClasses (50ms)
+	RebuildNativeTypeToScriptingClass (21ms)
+	initialDomainReloadingComplete (44ms)
+	LoadAllAssembliesAndSetupDomain (336ms)
+		LoadAssemblies (458ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (20ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (1833ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1126ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (49ms)
+			SetLoadedEditorAssemblies (8ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (158ms)
+			ProcessInitializeOnLoadAttributes (861ms)
+			ProcessInitializeOnLoadMethodAttributes (35ms)
+			AfterProcessingInitializeOnLoad (15ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+Refreshing native plugins compatible for Editor in 5.97 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3144 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (31.1 KB). Loaded Objects now: 3693.
+Memory consumption went from 138.4 MB to 138.4 MB.
+Total: 5.647200 ms (FindLiveObjects: 0.942300 ms CreateObjectMapping: 0.545200 ms MarkObjects: 4.026900 ms  DeleteObjects: 0.131100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.568 seconds
+Refreshing native plugins compatible for Editor in 4.82 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.569 seconds
+Domain Reload Profiling: 2133ms
+	BeginReloadAssembly (186ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (9ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (36ms)
+	RebuildCommonClasses (45ms)
+	RebuildNativeTypeToScriptingClass (20ms)
+	initialDomainReloadingComplete (40ms)
+	LoadAllAssembliesAndSetupDomain (272ms)
+		LoadAssemblies (355ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (20ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (1570ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (941ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (38ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (124ms)
+			ProcessInitializeOnLoadAttributes (729ms)
+			ProcessInitializeOnLoadMethodAttributes (32ms)
+			AfterProcessingInitializeOnLoad (13ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+Refreshing native plugins compatible for Editor in 4.93 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3144 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (31.2 KB). Loaded Objects now: 3696.
+Memory consumption went from 140.3 MB to 140.3 MB.
+Total: 4.421500 ms (FindLiveObjects: 0.333400 ms CreateObjectMapping: 0.316700 ms MarkObjects: 3.710800 ms  DeleteObjects: 0.059400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.609 seconds
+Refreshing native plugins compatible for Editor in 6.30 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.583 seconds
+Domain Reload Profiling: 2187ms
+	BeginReloadAssembly (196ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (42ms)
+	RebuildCommonClasses (48ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (38ms)
+	LoadAllAssembliesAndSetupDomain (307ms)
+		LoadAssemblies (395ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (20ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (1584ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (939ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (43ms)
+			SetLoadedEditorAssemblies (7ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (136ms)
+			ProcessInitializeOnLoadAttributes (711ms)
+			ProcessInitializeOnLoadMethodAttributes (30ms)
+			AfterProcessingInitializeOnLoad (10ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Refreshing native plugins compatible for Editor in 4.73 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3144 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (31.1 KB). Loaded Objects now: 3699.
+Memory consumption went from 142.3 MB to 142.2 MB.
+Total: 5.068900 ms (FindLiveObjects: 0.369600 ms CreateObjectMapping: 0.458300 ms MarkObjects: 4.183100 ms  DeleteObjects: 0.056400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 449.894163 seconds.
+  path: Assets/materials/kimlik.mat
+  artifactKey: Guid(e4928d0485e187e479d11c7ab9212059) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materials/kimlik.mat using Guid(e4928d0485e187e479d11c7ab9212059) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73c0ba76655e81c1452538992f5cd8a3') in 0.078201 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.552199 seconds.
+  path: Assets/materials/tablo
+  artifactKey: Guid(86d2255899f7fce4bbfe7ba8c9e9677f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materials/tablo using Guid(86d2255899f7fce4bbfe7ba8c9e9677f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '857b4c7fdb96aac163927b1c6492a059') in 0.000651 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 28.269828 seconds.
+  path: Assets/materials/123456789.png
+  artifactKey: Guid(eceb42a910cd4ea49a545a10a04e2e20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materials/123456789.png using Guid(eceb42a910cd4ea49a545a10a04e2e20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cac51d4f68615275980336317b09ea28') in 0.024479 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 13.177431 seconds.
+  path: Assets/materials/kimlik.mat
+  artifactKey: Guid(e4928d0485e187e479d11c7ab9212059) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materials/kimlik.mat using Guid(e4928d0485e187e479d11c7ab9212059) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17c1f596d9690a3ebb066d71d6ce8cba') in 0.012935 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 4.272005 seconds.
+  path: Assets/materials/1234567891.png
+  artifactKey: Guid(6dca513229a9f5c4584d5c45aa727f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materials/1234567891.png using Guid(6dca513229a9f5c4584d5c45aa727f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bab6b9daec287339a5acad6477903734') in 0.013860 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.574 seconds
+Refreshing native plugins compatible for Editor in 4.34 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.580 seconds
+Domain Reload Profiling: 2151ms
+	BeginReloadAssembly (198ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (44ms)
+	RebuildCommonClasses (38ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (40ms)
+	LoadAllAssembliesAndSetupDomain (281ms)
+		LoadAssemblies (381ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (13ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (1580ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (936ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (43ms)
+			SetLoadedEditorAssemblies (7ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (131ms)
+			ProcessInitializeOnLoadAttributes (713ms)
+			ProcessInitializeOnLoadMethodAttributes (29ms)
+			AfterProcessingInitializeOnLoad (12ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+Refreshing native plugins compatible for Editor in 4.77 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3143 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (31.1 KB). Loaded Objects now: 3702.
+Memory consumption went from 144.0 MB to 143.9 MB.
+Total: 4.619000 ms (FindLiveObjects: 0.349200 ms CreateObjectMapping: 0.310500 ms MarkObjects: 3.902300 ms  DeleteObjects: 0.055700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.533 seconds
+Refreshing native plugins compatible for Editor in 5.05 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.506 seconds
+Domain Reload Profiling: 2035ms
+	BeginReloadAssembly (169ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (41ms)
+	RebuildCommonClasses (42ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (35ms)
+	LoadAllAssembliesAndSetupDomain (269ms)
+		LoadAssemblies (339ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (18ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (1506ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (897ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (36ms)
+			SetLoadedEditorAssemblies (6ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (119ms)
+			ProcessInitializeOnLoadAttributes (695ms)
+			ProcessInitializeOnLoadMethodAttributes (31ms)
+			AfterProcessingInitializeOnLoad (10ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Refreshing native plugins compatible for Editor in 5.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3144 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (31.1 KB). Loaded Objects now: 3705.
+Memory consumption went from 146.1 MB to 146.1 MB.
+Total: 3.402500 ms (FindLiveObjects: 0.270400 ms CreateObjectMapping: 0.308800 ms MarkObjects: 2.769900 ms  DeleteObjects: 0.052200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 88.354500 seconds.
+  path: Assets/materials/kimlik.mat
+  artifactKey: Guid(e4928d0485e187e479d11c7ab9212059) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materials/kimlik.mat using Guid(e4928d0485e187e479d11c7ab9212059) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dd2465e7d9dec689ca5b123241b9a31') in 0.093946 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.601 seconds
+Refreshing native plugins compatible for Editor in 3.80 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.344 seconds
+Domain Reload Profiling: 1941ms
+	BeginReloadAssembly (206ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (10ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (47ms)
+	RebuildCommonClasses (44ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (36ms)
+	LoadAllAssembliesAndSetupDomain (297ms)
+		LoadAssemblies (384ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (26ms)
+			TypeCache.Refresh (11ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (7ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (1345ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (779ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (34ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (114ms)
+			ProcessInitializeOnLoadAttributes (592ms)
+			ProcessInitializeOnLoadMethodAttributes (25ms)
+			AfterProcessingInitializeOnLoad (9ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Refreshing native plugins compatible for Editor in 3.72 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3145 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (31.2 KB). Loaded Objects now: 3710.
+Memory consumption went from 147.8 MB to 147.8 MB.
+Total: 3.165100 ms (FindLiveObjects: 0.262000 ms CreateObjectMapping: 0.232400 ms MarkObjects: 2.625200 ms  DeleteObjects: 0.044300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 45.552005 seconds.
+  path: Assets/Gereksizler
+  artifactKey: Guid(b16b3c3c735c1e44aa87d33b477ad070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler using Guid(b16b3c3c735c1e44aa87d33b477ad070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d13d1f528ebb94420ba4988f26eeca8') in 0.002960 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 155.720308 seconds.
+  path: Assets/Gereksizler/GLASSOFCOINS-Furniture Asset Pack/FurnitureAssetPack.fbx
+  artifactKey: Guid(7f6614e3b15fa0a4e84d8003431f5575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/GLASSOFCOINS-Furniture Asset Pack/FurnitureAssetPack.fbx using Guid(7f6614e3b15fa0a4e84d8003431f5575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d6ded8a5c9ea5e55549229fb6bbc1ee') in 0.471619 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 206
+========================================================================
+Received Import Request.
+  Time since last request: 169.175187 seconds.
+  path: Assets/Toon Vehicles Free/Prefabs
+  artifactKey: Guid(9f873574430d84e46aaa3e8b2b1cc77e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Toon Vehicles Free/Prefabs using Guid(9f873574430d84e46aaa3e8b2b1cc77e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9e8163800d3c2a5d76484cd460a5a2f') in 0.001244 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.949002 seconds.
+  path: Assets/Toon Vehicles Free/Prefabs/Gradient
+  artifactKey: Guid(d00f40037e9068a4e8f734819e27183c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Toon Vehicles Free/Prefabs/Gradient using Guid(d00f40037e9068a4e8f734819e27183c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0959298cb46bf08e3fda860239b08cb2') in 0.000570 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.055666 seconds.
+  path: Assets/Toon Vehicles Free/Prefabs/Gradient/Ambulance.prefab
+  artifactKey: Guid(520243676ea46ee439626a72de6524be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Toon Vehicles Free/Prefabs/Gradient/Ambulance.prefab using Guid(520243676ea46ee439626a72de6524be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1835f0c107fb1dfae9d95f1e0bb16a31') in 0.033436 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 56
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Toon Vehicles Free/Prefabs/Gradient/Police.prefab
+  artifactKey: Guid(003a5f3093db0e145892fdd69d4516bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Toon Vehicles Free/Prefabs/Gradient/Police.prefab using Guid(003a5f3093db0e145892fdd69d4516bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19792328800090e5504812ec8948921e') in 0.038004 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 56
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Toon Vehicles Free/Prefabs/Gradient/Sedan.prefab
+  artifactKey: Guid(0e015c6f1fec25b4e9af0275a19ee06e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Toon Vehicles Free/Prefabs/Gradient/Sedan.prefab using Guid(0e015c6f1fec25b4e9af0275a19ee06e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b6bfeccc6dd97718f74309ddba4806a') in 0.024932 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 56
+========================================================================
+Received Import Request.
+  Time since last request: 24.153840 seconds.
+  path: Assets/Gereksizler/Palmov Island/Low Poly Houses Free Pack/Models
+  artifactKey: Guid(c1b8a72e2bc64574ba9f6b3628dc1e25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/Palmov Island/Low Poly Houses Free Pack/Models using Guid(c1b8a72e2bc64574ba9f6b3628dc1e25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65786a65f2430803537037533f69abb9') in 0.001061 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.653804 seconds.
+  path: Assets/Gereksizler/Palmov Island/Low Poly Houses Free Pack/Models/Grounds
+  artifactKey: Guid(b404b5f24a5ff1445a93896f3e0f3379) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/Palmov Island/Low Poly Houses Free Pack/Models/Grounds using Guid(b404b5f24a5ff1445a93896f3e0f3379) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac43695a9c6b6a8f6b3edd35464c4240') in 0.000564 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.067745 seconds.
+  path: Assets/Gereksizler/Palmov Island/Low Poly Houses Free Pack/Models/Grounds/asphalt ground large.fbx
+  artifactKey: Guid(c18cb56cd71e0ff4ab5be9d43d4880af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/Palmov Island/Low Poly Houses Free Pack/Models/Grounds/asphalt ground large.fbx using Guid(c18cb56cd71e0ff4ab5be9d43d4880af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4f5cf6e336133147291b06c6345baab') in 0.020886 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Gereksizler/Palmov Island/Low Poly Houses Free Pack/Models/Grounds/land.fbx
+  artifactKey: Guid(3062556a3b001d0459343c895e43ad9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/Palmov Island/Low Poly Houses Free Pack/Models/Grounds/land.fbx using Guid(3062556a3b001d0459343c895e43ad9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '593ad643b795b00ac20ae10ded8e15b0') in 0.028811 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Gereksizler/Palmov Island/Low Poly Houses Free Pack/Models/Grounds/tennis court brown.fbx
+  artifactKey: Guid(46613cd64b62b7648950c905a84a1c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/Palmov Island/Low Poly Houses Free Pack/Models/Grounds/tennis court brown.fbx using Guid(46613cd64b62b7648950c905a84a1c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b9431ee877074ee19157bcf3083ffdc') in 0.028213 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Gereksizler/Palmov Island/Low Poly Houses Free Pack/Models/Grounds/asphalt ground wide side turn.fbx
+  artifactKey: Guid(30aa85d089f0bdf458f3852be23e8e57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/Palmov Island/Low Poly Houses Free Pack/Models/Grounds/asphalt ground wide side turn.fbx using Guid(30aa85d089f0bdf458f3852be23e8e57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '146f7c1bdd6312d253b1c7882a1cf80a') in 0.020963 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Gereksizler/Palmov Island/Low Poly Houses Free Pack/Models/Grounds/lake.fbx
+  artifactKey: Guid(8f04e41f13cdba34abbc8eab356e1b65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/Palmov Island/Low Poly Houses Free Pack/Models/Grounds/lake.fbx using Guid(8f04e41f13cdba34abbc8eab356e1b65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b24158475cbf7e0a1bfdbec39a811b92') in 0.018958 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 20.630533 seconds.
+  path: Assets/Gereksizler/Kevin Iglesias
+  artifactKey: Guid(14be7f3db4533134b9d0572810a41fde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/Kevin Iglesias using Guid(14be7f3db4533134b9d0572810a41fde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43bb3b8be27140928b377227902e8f08') in 0.000599 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 3.172962 seconds.
+  path: Assets/Gereksizler/Kevin Iglesias/Basic Motions
+  artifactKey: Guid(2cb279c410b7a3e4dbf4aab42283effa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/Kevin Iglesias/Basic Motions using Guid(2cb279c410b7a3e4dbf4aab42283effa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3618c915e480527df138799c14d6034') in 0.000732 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 3.509275 seconds.
+  path: Assets/Gereksizler/Kabungus
+  artifactKey: Guid(94794b059ee0add4ea709284bca28b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/Kabungus using Guid(94794b059ee0add4ea709284bca28b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa7e954c117d79a7bf4ad48f2afb6b8b') in 0.000576 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.889897 seconds.
+  path: Assets/Gereksizler/Kabungus/HouseholdItems
+  artifactKey: Guid(20833d9c4dd166a4fa2dd793d83f1cd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/Kabungus/HouseholdItems using Guid(20833d9c4dd166a4fa2dd793d83f1cd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8ac11da6671ef1e1bc5200b8cbd335e') in 0.000637 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.501091 seconds.
+  path: Assets/Gereksizler/Kabungus/HouseholdItems/Models
+  artifactKey: Guid(1c22cdb869e6dab4b919acebedeae220) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/Kabungus/HouseholdItems/Models using Guid(1c22cdb869e6dab4b919acebedeae220) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73ccd70adeb7080ebbd5e14f1fa069f2') in 0.000534 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.104938 seconds.
+  path: Assets/Gereksizler/Kabungus/HouseholdItems/Models/AmmoCase.fbx
+  artifactKey: Guid(aa7ad6bc2b52e954781a6686fbd02254) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/Kabungus/HouseholdItems/Models/AmmoCase.fbx using Guid(aa7ad6bc2b52e954781a6686fbd02254) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee6280c1a8fc26684fcb4a03b1289b70') in 0.030695 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Gereksizler/Kabungus/HouseholdItems/Models/Bottle3Green.fbx
+  artifactKey: Guid(594a2133f6142e94ca7fee09cbda6498) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/Kabungus/HouseholdItems/Models/Bottle3Green.fbx using Guid(594a2133f6142e94ca7fee09cbda6498) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd6dbd521635115d9a49e956419de20b') in 0.035831 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Gereksizler/Kabungus/HouseholdItems/Models/Bandages.fbx
+  artifactKey: Guid(16300328d06737d4f8350369f455b527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/Kabungus/HouseholdItems/Models/Bandages.fbx using Guid(16300328d06737d4f8350369f455b527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9080039278f8b9a80664fedeb6207509') in 0.027672 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Gereksizler/Kabungus/HouseholdItems/Models/BookRed.fbx
+  artifactKey: Guid(c3390df49e87e5c46981156f184b4aec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/Kabungus/HouseholdItems/Models/BookRed.fbx using Guid(c3390df49e87e5c46981156f184b4aec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0d073b8b828f32d970ae40d6acd928a') in 0.025503 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Gereksizler/Kabungus/HouseholdItems/Models/BookOrange.fbx
+  artifactKey: Guid(fe504561693c37d43ba5303251aedb14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/Kabungus/HouseholdItems/Models/BookOrange.fbx using Guid(fe504561693c37d43ba5303251aedb14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b662a75f4a483b95bde4400de417f3a5') in 0.023960 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Gereksizler/Kabungus/HouseholdItems/Models/Bottle2.fbx
+  artifactKey: Guid(ab04bd6e8b2e4f344bb52707b192cce4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/Kabungus/HouseholdItems/Models/Bottle2.fbx using Guid(ab04bd6e8b2e4f344bb52707b192cce4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61c25551fe157cf4906206937924671c') in 0.028000 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/Gereksizler/Kabungus/HouseholdItems/Models/Bookshelf.fbx
+  artifactKey: Guid(d9f9733317a49d049b6bb35ad87e96fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/Kabungus/HouseholdItems/Models/Bookshelf.fbx using Guid(d9f9733317a49d049b6bb35ad87e96fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a37537b553b5467254589f83f9e50ab1') in 0.025019 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Gereksizler/Kabungus/HouseholdItems/Models/BeerMug.fbx
+  artifactKey: Guid(49fd60892425cef43a3718e2e547e759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/Kabungus/HouseholdItems/Models/BeerMug.fbx using Guid(49fd60892425cef43a3718e2e547e759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e8b10432811392c7b23d753f68e91f0') in 0.022489 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Gereksizler/Kabungus/HouseholdItems/Models/Bottle1Black.fbx
+  artifactKey: Guid(3a63b0b1934b09b4b9aaebb19e228d33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/Kabungus/HouseholdItems/Models/Bottle1Black.fbx using Guid(3a63b0b1934b09b4b9aaebb19e228d33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5082f6bb33781374e326a5844e6eea6') in 0.024920 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 1.220977 seconds.
+  path: Assets/Gereksizler/Kabungus/HouseholdItems/Models/Bowl.fbx
+  artifactKey: Guid(971a90db28f0cd2408669534a8188013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/Kabungus/HouseholdItems/Models/Bowl.fbx using Guid(971a90db28f0cd2408669534a8188013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7898db672b4cba2d462e306ea1f34359') in 0.022501 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Gereksizler/Kabungus/HouseholdItems/Models/Briefcase.fbx
+  artifactKey: Guid(224bf7a6e33f8a24cb82701faf3b737b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/Kabungus/HouseholdItems/Models/Briefcase.fbx using Guid(224bf7a6e33f8a24cb82701faf3b737b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fc38911dc50c7d02377c9a4d4cc6ecf') in 0.024109 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.027737 seconds.
+  path: Assets/Gereksizler/Kabungus/HouseholdItems/Models/ButcherKnife.fbx
+  artifactKey: Guid(aa0687ec75352ff44aec1586d8afa2d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/Kabungus/HouseholdItems/Models/ButcherKnife.fbx using Guid(aa0687ec75352ff44aec1586d8afa2d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ab62a44eca9b9ccfa8aaf2825cfe9b2') in 0.027098 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Gereksizler/Kabungus/HouseholdItems/Models/Camera.fbx
+  artifactKey: Guid(9db9da53e72df3f489a3c2a6dd1f7f0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/Kabungus/HouseholdItems/Models/Camera.fbx using Guid(9db9da53e72df3f489a3c2a6dd1f7f0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0332149462c7eb8a338f8b906360f78c') in 0.024530 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.318142 seconds.
+  path: Assets/Gereksizler/Kabungus/HouseholdItems/Models/Crowbar.fbx
+  artifactKey: Guid(85332a844ebaaa1489b6d6b7a08ee613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/Kabungus/HouseholdItems/Models/Crowbar.fbx using Guid(85332a844ebaaa1489b6d6b7a08ee613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88b24f3d88ffc45d40d15c2e8d5bcc71') in 0.023703 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Gereksizler/Kabungus/HouseholdItems/Models/CupBrown.fbx
+  artifactKey: Guid(84c0f2ff54923864aa4248da59cf63b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/Kabungus/HouseholdItems/Models/CupBrown.fbx using Guid(84c0f2ff54923864aa4248da59cf63b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20ff34dd58e3f9853745f22d187365dd') in 0.024814 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.003658 seconds.
+  path: Assets/Gereksizler/Kabungus/HouseholdItems/Models/CupRed.fbx
+  artifactKey: Guid(af5b0c10ece0761459a129c5bb6ca880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/Kabungus/HouseholdItems/Models/CupRed.fbx using Guid(af5b0c10ece0761459a129c5bb6ca880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b78dfe9e35f47552b110842a2531331') in 0.025930 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Gereksizler/Kabungus/HouseholdItems/Models/Dumbell2.fbx
+  artifactKey: Guid(9f907ef69da1ed440bc8e443071798e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/Kabungus/HouseholdItems/Models/Dumbell2.fbx using Guid(9f907ef69da1ed440bc8e443071798e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7164baa5ea62dae386b2a9a94f45dc6') in 0.024635 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.010910 seconds.
+  path: Assets/Gereksizler/Kabungus/HouseholdItems/Models/FastCoffeeCupGreen.fbx
+  artifactKey: Guid(0cdf16d1be16e084e8e297fde59ffad7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/Kabungus/HouseholdItems/Models/FastCoffeeCupGreen.fbx using Guid(0cdf16d1be16e084e8e297fde59ffad7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb651cab87b1cb382ca0628e18a3396e') in 0.023458 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Gereksizler/Kabungus/HouseholdItems/Models/FastFoodCupGreen.fbx
+  artifactKey: Guid(a2755a7d91fd4c847b80b09deb54ec58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/Kabungus/HouseholdItems/Models/FastFoodCupGreen.fbx using Guid(a2755a7d91fd4c847b80b09deb54ec58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84853fe041705ce2aa581d0ac3bb9d6a') in 0.024849 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.323062 seconds.
+  path: Assets/Gereksizler/Kabungus/HouseholdItems/Models/FastFoodCupRed.fbx
+  artifactKey: Guid(7a96eff1648e86445b9006ae68966fef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/Kabungus/HouseholdItems/Models/FastFoodCupRed.fbx using Guid(7a96eff1648e86445b9006ae68966fef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96e5e66fe053d135b2274f5ffc9c26fd') in 0.022759 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Gereksizler/Kabungus/HouseholdItems/Models/GasCan.fbx
+  artifactKey: Guid(f1b3aa88dc1fd4647a8999fbb3a53951) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/Kabungus/HouseholdItems/Models/GasCan.fbx using Guid(f1b3aa88dc1fd4647a8999fbb3a53951) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b24d2c1ab6639cbb0195ff21bbf3360') in 0.025063 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.029485 seconds.
+  path: Assets/Gereksizler/Kabungus/HouseholdItems/Models/Goblet.fbx
+  artifactKey: Guid(ec0ae1985031c5d49a94fc3c5c1877c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/Kabungus/HouseholdItems/Models/Goblet.fbx using Guid(ec0ae1985031c5d49a94fc3c5c1877c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '159644dbe5e262f9338943abe6ccade8') in 0.026383 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Gereksizler/Kabungus/HouseholdItems/Models/KitchenKnife.fbx
+  artifactKey: Guid(03aa2203db556a8418140b52afe7b00c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/Kabungus/HouseholdItems/Models/KitchenKnife.fbx using Guid(03aa2203db556a8418140b52afe7b00c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af02a7181c42b70a6d51fcbab9ff3091') in 0.024915 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Gereksizler/Kabungus/HouseholdItems/Models/Hatchet2.fbx
+  artifactKey: Guid(a8a4d20ce77d57145937695d1c21eef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/Kabungus/HouseholdItems/Models/Hatchet2.fbx using Guid(a8a4d20ce77d57145937695d1c21eef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0999a5af910f811008f0477cf0a98477') in 0.024081 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Gereksizler/Kabungus/HouseholdItems/Models/KitchenKnifeBrown.fbx
+  artifactKey: Guid(30b2d5ef486e90c4f84072fe791deea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/Kabungus/HouseholdItems/Models/KitchenKnifeBrown.fbx using Guid(30b2d5ef486e90c4f84072fe791deea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '990f659147d88c24c4571fad69f2f43a') in 0.025097 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.589 seconds
+Refreshing native plugins compatible for Editor in 3.74 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.413 seconds
+Domain Reload Profiling: 1998ms
+	BeginReloadAssembly (184ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (46ms)
+	RebuildCommonClasses (49ms)
+	RebuildNativeTypeToScriptingClass (23ms)
+	initialDomainReloadingComplete (39ms)
+	LoadAllAssembliesAndSetupDomain (290ms)
+		LoadAssemblies (364ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (25ms)
+			TypeCache.Refresh (10ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (7ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (1414ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (735ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (32ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (115ms)
+			ProcessInitializeOnLoadAttributes (552ms)
+			ProcessInitializeOnLoadMethodAttributes (21ms)
+			AfterProcessingInitializeOnLoad (10ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Refreshing native plugins compatible for Editor in 3.74 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3145 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (31.2 KB). Loaded Objects now: 3713.
+Memory consumption went from 149.9 MB to 149.8 MB.
+Total: 3.692200 ms (FindLiveObjects: 0.279000 ms CreateObjectMapping: 0.271200 ms MarkObjects: 3.092800 ms  DeleteObjects: 0.048200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 52.228209 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Models/AmmoCase.fbx
+  artifactKey: Guid(aa7ad6bc2b52e954781a6686fbd02254) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Models/AmmoCase.fbx using Guid(aa7ad6bc2b52e954781a6686fbd02254) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '435e37b12a5858d7a70499e4748de117') in 0.119527 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Models/Bottle3Green.fbx
+  artifactKey: Guid(594a2133f6142e94ca7fee09cbda6498) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Models/Bottle3Green.fbx using Guid(594a2133f6142e94ca7fee09cbda6498) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d6c2e14597dd7e77640f0cd067a932c') in 0.024196 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Models/Bandages.fbx
+  artifactKey: Guid(16300328d06737d4f8350369f455b527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Models/Bandages.fbx using Guid(16300328d06737d4f8350369f455b527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52ba2739ecc737292187e129f65b1e03') in 0.029717 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Models/Bottle3.fbx
+  artifactKey: Guid(a8b418ed1c169454b82714ac49106189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Models/Bottle3.fbx using Guid(a8b418ed1c169454b82714ac49106189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ddae61d0a95bd8e2e613b414e7af1c4') in 0.031223 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Models/Binoculars.fbx
+  artifactKey: Guid(a77e9c6471fcb1b4aa0210bd07053404) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Models/Binoculars.fbx using Guid(a77e9c6471fcb1b4aa0210bd07053404) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf4ad580fc5b5d79f807ab389ae5e5f0') in 0.024951 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Models/Bat.fbx
+  artifactKey: Guid(a065356909044b0428d4cdd57a9e3384) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Models/Bat.fbx using Guid(a065356909044b0428d4cdd57a9e3384) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e096262ff993113f0444b9746b003dd') in 0.028913 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Models/Bottle1.fbx
+  artifactKey: Guid(bb7462f58786dd741ad8c498c0711bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Models/Bottle1.fbx using Guid(bb7462f58786dd741ad8c498c0711bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f854f45d9e1cb0b4dfe52191f6cb923') in 0.026678 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Models/BeerMug.fbx
+  artifactKey: Guid(49fd60892425cef43a3718e2e547e759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Models/BeerMug.fbx using Guid(49fd60892425cef43a3718e2e547e759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67a8e62126651b26aa4ad3507f3a896b') in 0.026979 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 21.373121 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Models/Bowl.fbx
+  artifactKey: Guid(971a90db28f0cd2408669534a8188013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Models/Bowl.fbx using Guid(971a90db28f0cd2408669534a8188013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e845d85c21fecb683908099b9c28ef9') in 0.021004 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Models/BriefcaseGrey.fbx
+  artifactKey: Guid(12fd7b745f6bfd1409631096ed97192c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Models/BriefcaseGrey.fbx using Guid(12fd7b745f6bfd1409631096ed97192c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa2520b368daa0da7c5537ea47a8aadd') in 0.021661 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 2.486597 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Models/ButcherKnife.fbx
+  artifactKey: Guid(aa0687ec75352ff44aec1586d8afa2d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Models/ButcherKnife.fbx using Guid(aa0687ec75352ff44aec1586d8afa2d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11270f8a4807a5f0107de2ddc59ec36b') in 0.023883 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Models/Camera.fbx
+  artifactKey: Guid(9db9da53e72df3f489a3c2a6dd1f7f0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Models/Camera.fbx using Guid(9db9da53e72df3f489a3c2a6dd1f7f0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9199d784d87d59807404aea979e059e1') in 0.035446 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.697125 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Models/Crowbar.fbx
+  artifactKey: Guid(85332a844ebaaa1489b6d6b7a08ee613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Models/Crowbar.fbx using Guid(85332a844ebaaa1489b6d6b7a08ee613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85c59ce292cb85ddcc38001af259ffbb') in 0.023789 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Models/CupBrown.fbx
+  artifactKey: Guid(84c0f2ff54923864aa4248da59cf63b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Models/CupBrown.fbx using Guid(84c0f2ff54923864aa4248da59cf63b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '270b74d13d1ee3b3964c9d7eb28c0e86') in 0.039085 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.030904 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Models/CupRed.fbx
+  artifactKey: Guid(af5b0c10ece0761459a129c5bb6ca880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Models/CupRed.fbx using Guid(af5b0c10ece0761459a129c5bb6ca880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd32f47c28d04ad0e20d59722c238086') in 0.021426 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Models/Dumbell1.fbx
+  artifactKey: Guid(5dfdfe460a3ef724eb29ce5e47002033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Models/Dumbell1.fbx using Guid(5dfdfe460a3ef724eb29ce5e47002033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '578af9caa77042f315cccef3fe8c1352') in 0.024438 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.420266 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Models/FastCoffeeCupGreen.fbx
+  artifactKey: Guid(0cdf16d1be16e084e8e297fde59ffad7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Models/FastCoffeeCupGreen.fbx using Guid(0cdf16d1be16e084e8e297fde59ffad7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23be64eead02907bdb13fde37acf7db7') in 0.021515 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Models/FastFoodCupGreen.fbx
+  artifactKey: Guid(a2755a7d91fd4c847b80b09deb54ec58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Models/FastFoodCupGreen.fbx using Guid(a2755a7d91fd4c847b80b09deb54ec58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '615b5ad06c12900586eb927b79b203f6') in 0.025528 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.037433 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Models/FastFoodCupRed.fbx
+  artifactKey: Guid(7a96eff1648e86445b9006ae68966fef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Models/FastFoodCupRed.fbx using Guid(7a96eff1648e86445b9006ae68966fef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e64edf394f7dea9f43408e6491843d8e') in 0.024224 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Models/GasCan.fbx
+  artifactKey: Guid(f1b3aa88dc1fd4647a8999fbb3a53951) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Models/GasCan.fbx using Guid(f1b3aa88dc1fd4647a8999fbb3a53951) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eef08fcb43e5aed6206c79d339b91a9a') in 0.022164 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 142.222726 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Models/Goblet.fbx
+  artifactKey: Guid(ec0ae1985031c5d49a94fc3c5c1877c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Models/Goblet.fbx using Guid(ec0ae1985031c5d49a94fc3c5c1877c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '731e44f10b5e9a56190eaba5897f68af') in 0.025598 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Models/Hammer2.fbx
+  artifactKey: Guid(711d74a3645060e43b4c6c2cc20c54bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Models/Hammer2.fbx using Guid(711d74a3645060e43b4c6c2cc20c54bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cedb6966228a81e01c50c96a0b23cfd') in 0.039676 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.650296 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Models/Hatchet2.fbx
+  artifactKey: Guid(a8a4d20ce77d57145937695d1c21eef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Models/Hatchet2.fbx using Guid(a8a4d20ce77d57145937695d1c21eef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c1661bac8c9a8825848450f2ac83138') in 0.020435 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Models/KitchenKnife.fbx
+  artifactKey: Guid(03aa2203db556a8418140b52afe7b00c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Models/KitchenKnife.fbx using Guid(03aa2203db556a8418140b52afe7b00c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cacaae8474902729cc161b47c14c25e4') in 0.024428 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 1.166673 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Models/MedBook.fbx
+  artifactKey: Guid(f266f199da84056439c44e0747b893be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Models/MedBook.fbx using Guid(f266f199da84056439c44e0747b893be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65a65e9e8c692970f41357d4059c8e17') in 0.024465 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Models/MilkCartonBlue.fbx
+  artifactKey: Guid(199d563ea104d0448a487270a4cf4e63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Models/MilkCartonBlue.fbx using Guid(199d563ea104d0448a487270a4cf4e63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '249f2709dd89cdb019c04327691b98a4') in 0.025084 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.886666 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Models/Money.fbx
+  artifactKey: Guid(06175cfee688f5344a660f847b47fb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Models/Money.fbx using Guid(06175cfee688f5344a660f847b47fb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a748c63b3a5df93b1e3dad3bf4e5286') in 0.020575 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Models/Mug_001.fbx
+  artifactKey: Guid(473f1a99c0b186949b372e342d40a357) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Models/Mug_001.fbx using Guid(473f1a99c0b186949b372e342d40a357) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0c7d79f62409fceca309bd9f07f80ad') in 0.025385 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.811576 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Models/Pan2.fbx
+  artifactKey: Guid(6dcca7473d12a784ebb3e8eff754d489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Models/Pan2.fbx using Guid(6dcca7473d12a784ebb3e8eff754d489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad43e3de7969ae50a023c4f462dae392') in 0.022751 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Models/PillBottle.fbx
+  artifactKey: Guid(21407b519341c0d4183e3dc546deadae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Models/PillBottle.fbx using Guid(21407b519341c0d4183e3dc546deadae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b0a80db9ac53fae473853d5e1cd58e2') in 0.022273 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 1.065984 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Models/Plate_001.fbx
+  artifactKey: Guid(136a21140d24ad1498cc9e9a9aef5330) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Models/Plate_001.fbx using Guid(136a21140d24ad1498cc9e9a9aef5330) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89154bef027fe691e5c4f2679dc98008') in 0.026942 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Models/Saw.fbx
+  artifactKey: Guid(2e5307c2c58b4c14faf1ef1cafc4d5d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Models/Saw.fbx using Guid(2e5307c2c58b4c14faf1ef1cafc4d5d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2b969e2e0f8673a5fdf1cda7da5416e') in 0.039711 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 1.624566 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Models/ScrewDriverBlue.fbx
+  artifactKey: Guid(82c5bf8db4f44694a9f60476aad774e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Models/ScrewDriverBlue.fbx using Guid(82c5bf8db4f44694a9f60476aad774e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4044166e32c488891661b64be1d0203f') in 0.027531 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Models/Shovel.fbx
+  artifactKey: Guid(471f79d8a96bfde4f9e1a293e7f7361d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Models/Shovel.fbx using Guid(471f79d8a96bfde4f9e1a293e7f7361d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '628bc726e01eaf00ef236f13e8d34785') in 0.041359 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 1.008241 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Models/SledgeHammer2.fbx
+  artifactKey: Guid(35e118018193e934ba26c008aa81846f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Models/SledgeHammer2.fbx using Guid(35e118018193e934ba26c008aa81846f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12e8bfa68d6fa6175ca468b0e5d528e9') in 0.027147 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Models/SmartPhoneGreen.fbx
+  artifactKey: Guid(0040c4d16007e584c99e3a3a31a452f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Models/SmartPhoneGreen.fbx using Guid(0040c4d16007e584c99e3a3a31a452f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4726df8d205bb765101587101ed8d637') in 0.029452 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 11.325658 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Models/SmartPhoneWhite.fbx
+  artifactKey: Guid(daa587e242c9fb442badb9e5d02af889) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Models/SmartPhoneWhite.fbx using Guid(daa587e242c9fb442badb9e5d02af889) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bea73afb2574bbfe3968dea3fcd44a67') in 0.026487 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Models/Spoon.fbx
+  artifactKey: Guid(25b1a2c214aa2494e85518ad6711b3d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Models/Spoon.fbx using Guid(25b1a2c214aa2494e85518ad6711b3d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5ca03d67d27005edcec973b74642e31') in 0.037940 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 1.019107 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Models/Table.fbx
+  artifactKey: Guid(8ef9da9f9972498419596d02c2f570ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Models/Table.fbx using Guid(8ef9da9f9972498419596d02c2f570ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5ef0866aaa3aaace94c110fdcf58498') in 0.021313 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Models/ToolboxRed.fbx
+  artifactKey: Guid(06ad15d7819965f47936bc40e4e8be40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Models/ToolboxRed.fbx using Guid(06ad15d7819965f47936bc40e4e8be40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e613320b28004d494bc0d058535c1796') in 0.040212 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 1.240550 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Models/ToothbrushBlue.fbx
+  artifactKey: Guid(bdf30d5cbe35d924dbab3a0b19002705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Models/ToothbrushBlue.fbx using Guid(bdf30d5cbe35d924dbab3a0b19002705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdeecfb752e53f4ae6c7c3fd9a1430f0') in 0.021719 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Models/ToothbrushRed.fbx
+  artifactKey: Guid(e74d1924ac407a941876450ee6017fd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Models/ToothbrushRed.fbx using Guid(e74d1924ac407a941876450ee6017fd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf55e171356d9802ee8317b14cea3cf8') in 0.024648 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.799870 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Models/TVStand.fbx
+  artifactKey: Guid(03d128306848ffc48a08081f54f6a85e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Models/TVStand.fbx using Guid(03d128306848ffc48a08081f54f6a85e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f8131c587d91e4a343b5ade48385e32') in 0.022988 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 12.980022 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs
+  artifactKey: Guid(5050497a8c64c284baee05a7b129c508) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs using Guid(5050497a8c64c284baee05a7b129c508) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '938d345945c14cb2c249b24a04e25c69') in 0.000663 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.052271 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs/AmmoCase.prefab
+  artifactKey: Guid(ea99e1f78d567fd43a874e5fceb5fcc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs/AmmoCase.prefab using Guid(ea99e1f78d567fd43a874e5fceb5fcc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c87f499b07740f56dabcafa6b12d432b') in 0.015595 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs/BookBlue.prefab
+  artifactKey: Guid(164e398b45d0b2e45b7937efbe8699ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs/BookBlue.prefab using Guid(164e398b45d0b2e45b7937efbe8699ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d69c5e5f20f5f602f6c740a4fcc9b2a') in 0.019940 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs/BookOrange.prefab
+  artifactKey: Guid(eeea2201d68467f489dabe4e26024fbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs/BookOrange.prefab using Guid(eeea2201d68467f489dabe4e26024fbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e6c985733a6d38288a009fb3d8c63f7') in 0.022573 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs/Binoculars.prefab
+  artifactKey: Guid(feda0d677f60e87469cb9da36fbe622b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs/Binoculars.prefab using Guid(feda0d677f60e87469cb9da36fbe622b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e517f079ea3f5cd87166e01240d4179') in 0.017750 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs/Bottle3Blue.prefab
+  artifactKey: Guid(4cbfeb0abc558484fabc57fa3866b1c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs/Bottle3Blue.prefab using Guid(4cbfeb0abc558484fabc57fa3866b1c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e6bf56365a3463f684bac697ca16672') in 0.021040 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs/Bookshelf.prefab
+  artifactKey: Guid(f925146e97b574945b581269a9251c10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs/Bookshelf.prefab using Guid(f925146e97b574945b581269a9251c10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a5fe9c13aa25cdf33419df09797724b') in 0.016434 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs/Bottle2Purple.prefab
+  artifactKey: Guid(99adc298dfe4d7c4ea42920fe16b1e4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs/Bottle2Purple.prefab using Guid(99adc298dfe4d7c4ea42920fe16b1e4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96f541b027e317f01f4ecbc9335cca82') in 0.014594 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs/Bottle2.prefab
+  artifactKey: Guid(69279df67a555c54eb2fa4d2b058f581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs/Bottle2.prefab using Guid(69279df67a555c54eb2fa4d2b058f581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d4e3c96ae5ad8bf9372972da7d1b6ac') in 0.016174 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 1.065146 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs/Bowl.prefab
+  artifactKey: Guid(222e29f4641dd134c9cef94233265b12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs/Bowl.prefab using Guid(222e29f4641dd134c9cef94233265b12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87b7bd791fa35590c2fcb4eb611d1b8c') in 0.015444 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs/Briefcase.prefab
+  artifactKey: Guid(034c9d399c992d343aedc9cf38d46122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs/Briefcase.prefab using Guid(034c9d399c992d343aedc9cf38d46122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91c29348ac4f8cbbf3d82d464a9fa5ac') in 0.015528 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 65.075191 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs/ButcherKnife.prefab
+  artifactKey: Guid(646f7087994c8474cbd8f419607c412b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs/ButcherKnife.prefab using Guid(646f7087994c8474cbd8f419607c412b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d241b180c721220f0dc445d8738a9a3') in 0.015495 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs/Chair.prefab
+  artifactKey: Guid(0cb729339bf649b4bb590c283507110b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs/Chair.prefab using Guid(0cb729339bf649b4bb590c283507110b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b452ac14820968b246058201202a1af') in 0.017064 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.565068 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs/Crowbar.prefab
+  artifactKey: Guid(e8650f681653c044ebb8c523687e3b3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs/Crowbar.prefab using Guid(e8650f681653c044ebb8c523687e3b3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4b2514af8e0a78a8527bd71c9461b65') in 0.013984 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs/CupBrown.prefab
+  artifactKey: Guid(b1d0e0f68076df74db8bdc033397cc1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs/CupBrown.prefab using Guid(b1d0e0f68076df74db8bdc033397cc1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02377836ebaa0899deacf52ff66568f8') in 0.016029 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.052736 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs/CupRed.prefab
+  artifactKey: Guid(16bceb75eebe6564aac541a7eec6dc8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs/CupRed.prefab using Guid(16bceb75eebe6564aac541a7eec6dc8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88477e66061656b97a8536daff1f5514') in 0.012825 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs/Dumbell2.prefab
+  artifactKey: Guid(30d47c07297e5c04eb4b1b5edb03926f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs/Dumbell2.prefab using Guid(30d47c07297e5c04eb4b1b5edb03926f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14a2c02c1b868fd83c8390ff400ccf51') in 0.015353 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.287618 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs/FastCoffeeCupGreen.prefab
+  artifactKey: Guid(48d2ae3205d1d3e49a87e8743ed605bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs/FastCoffeeCupGreen.prefab using Guid(48d2ae3205d1d3e49a87e8743ed605bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '536cec1c4ab2aa6622cc6b7c331f5487') in 0.014365 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs/FastFoodCupGreen.prefab
+  artifactKey: Guid(1b3532c0700379144b9fa1d891db40ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs/FastFoodCupGreen.prefab using Guid(1b3532c0700379144b9fa1d891db40ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6189d76cc9ca5b26edcc2638a695b93f') in 0.014504 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.846786 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs/FastFoodCupRed.prefab
+  artifactKey: Guid(1f5e000948d14864fa8e4523638618f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs/FastFoodCupRed.prefab using Guid(1f5e000948d14864fa8e4523638618f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42a20fe72b0b20b2f74580cd09a1e494') in 0.013363 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs/Fork.prefab
+  artifactKey: Guid(3cf00da793ccf734bb21f1e166c9b7ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs/Fork.prefab using Guid(3cf00da793ccf734bb21f1e166c9b7ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ff6a1ad4c4d215dce86fbb5d99b7283') in 0.014297 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.518620 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs/Goblet.prefab
+  artifactKey: Guid(5d7b5905a9b2f014dbbe85698f24bf1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs/Goblet.prefab using Guid(5d7b5905a9b2f014dbbe85698f24bf1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a35469407014708598090179e8c8a1a1') in 0.013147 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs/Hatchet.prefab
+  artifactKey: Guid(099057114fbfa384cac15e9afd032ec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs/Hatchet.prefab using Guid(099057114fbfa384cac15e9afd032ec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '100efc05c9f7f754d06614f0b4b9840c') in 0.015717 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.114599 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs/Hatchet2.prefab
+  artifactKey: Guid(65e952c9b83db734eb12b9746342d824) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs/Hatchet2.prefab using Guid(65e952c9b83db734eb12b9746342d824) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a256ebfd20d6c6119b2d2043fb361e8') in 0.013709 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs/KitchenKnife.prefab
+  artifactKey: Guid(6dfa99702458ec940b19f2d3e6f86da0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs/KitchenKnife.prefab using Guid(6dfa99702458ec940b19f2d3e6f86da0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70512995e96b450aedf49dbd24f3fa57') in 0.014574 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.333503 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs/MedBook.prefab
+  artifactKey: Guid(7eefa734b3d2287418b912c00e0c46f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs/MedBook.prefab using Guid(7eefa734b3d2287418b912c00e0c46f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b00728b0b25a1d2b9eb27304208cffe') in 0.014037 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs/MilkCartonBlue.prefab
+  artifactKey: Guid(6d08c488831fb6f43931534c0980cf22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs/MilkCartonBlue.prefab using Guid(6d08c488831fb6f43931534c0980cf22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9bcb044bff3fe008c1d82d4eed0bd89') in 0.013591 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.517326 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs/Money.prefab
+  artifactKey: Guid(aa7d1f96c0431314a878a2d84cd51729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs/Money.prefab using Guid(aa7d1f96c0431314a878a2d84cd51729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac25e85e47de89136568711c26e3bb55') in 0.013261 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs/Mug_001.prefab
+  artifactKey: Guid(cffecc893f3680d48b54934f84bd7b48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs/Mug_001.prefab using Guid(cffecc893f3680d48b54934f84bd7b48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b918fb2b95ba40fd3a2a59fd233f519d') in 0.015384 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 1.523315 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs/Pan2.prefab
+  artifactKey: Guid(274e96c60e8a21547a4790e006c188dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs/Pan2.prefab using Guid(274e96c60e8a21547a4790e006c188dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc8d3c2e9ce6178575ce24c532e1c79a') in 0.013812 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs/Plate.prefab
+  artifactKey: Guid(ac153637cab135d4fbb8ee7d267b6a4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs/Plate.prefab using Guid(ac153637cab135d4fbb8ee7d267b6a4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da0f7c313e7c3ec364adb0093dd4432c') in 0.014717 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.418700 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs/Plate_001.prefab
+  artifactKey: Guid(5f9e60bc4d7c78e49ad02ffca3b118bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs/Plate_001.prefab using Guid(5f9e60bc4d7c78e49ad02ffca3b118bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd16b8588006209326e329cc3f2708abc') in 0.014717 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs/Pot.prefab
+  artifactKey: Guid(64f28e658a9052142b5cee723a7beec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs/Pot.prefab using Guid(64f28e658a9052142b5cee723a7beec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '724b41f4e89377338a47afba79a32140') in 0.014905 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 4.651904 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs/ScrewDriverBlue.prefab
+  artifactKey: Guid(c36ccc69b1373a7499271ab12d1c5795) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs/ScrewDriverBlue.prefab using Guid(c36ccc69b1373a7499271ab12d1c5795) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63f2d3cf0a7573213603b18281b2b1d1') in 0.013857 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs/Shovel.prefab
+  artifactKey: Guid(dfb026ff6915bf642b5738683a90d714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs/Shovel.prefab using Guid(dfb026ff6915bf642b5738683a90d714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a4b2a0977d226fe71d6e9e29f5db4b0') in 0.014423 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 1.350661 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs/SledgeHammer2.prefab
+  artifactKey: Guid(3882c90189b37724aa690cbd45dd02d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs/SledgeHammer2.prefab using Guid(3882c90189b37724aa690cbd45dd02d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08d2df704889ffa829db33f0805dd70d') in 0.015795 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs/SmartPhoneGreen.prefab
+  artifactKey: Guid(f193c0694f6c77141b8317c4fb5d55e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs/SmartPhoneGreen.prefab using Guid(f193c0694f6c77141b8317c4fb5d55e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9a09d1bebb175fe03134944ee407493') in 0.017797 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 1.230527 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs/SmartPhoneWhite.prefab
+  artifactKey: Guid(ccf59782de3e9174994f5e5dcfec3ed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs/SmartPhoneWhite.prefab using Guid(ccf59782de3e9174994f5e5dcfec3ed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0ddc467fc578d2fc9d88df64de0c068') in 0.013945 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs/Syringe.prefab
+  artifactKey: Guid(e8cf887eda3224b44b14e9e6159ec23c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs/Syringe.prefab using Guid(e8cf887eda3224b44b14e9e6159ec23c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '895194186cb535f633e1a7f6666adf47') in 0.014983 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.544495 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs/Table.prefab
+  artifactKey: Guid(2d59a8765efbde941a0fff9e8280286c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs/Table.prefab using Guid(2d59a8765efbde941a0fff9e8280286c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2a1556a0c29c378143016546ee7ef45') in 0.015442 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs/ToolboxBlue.prefab
+  artifactKey: Guid(683e4b3920c6a1f4b92af28950055a52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs/ToolboxBlue.prefab using Guid(683e4b3920c6a1f4b92af28950055a52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d3eec5ef305285649d513956f7b0e0a') in 0.014062 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 27
+========================================================================
+Received Import Request.
+  Time since last request: 0.102499 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs/ToothbrushBlue.prefab
+  artifactKey: Guid(5b163acf2203c4347ba7005c61099f50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs/ToothbrushBlue.prefab using Guid(5b163acf2203c4347ba7005c61099f50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff624b14b436ecb661132b6225641764') in 0.013427 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs/TV.prefab
+  artifactKey: Guid(80872c6dd156f544788e44da2ac91219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs/TV.prefab using Guid(80872c6dd156f544788e44da2ac91219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e65645e7d257aa21e325342ee78b030a') in 0.014844 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 1.427224 seconds.
+  path: Assets/Gereksizler/HouseholdItems/Prefabs/TVStand.prefab
+  artifactKey: Guid(995d572cf8cf5154497fdab8dc93f5d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gereksizler/HouseholdItems/Prefabs/TVStand.prefab using Guid(995d572cf8cf5154497fdab8dc93f5d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b5321c116cd1ee39d8063f705828eff') in 0.013881 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.609 seconds
+Refreshing native plugins compatible for Editor in 4.13 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.545 seconds
+Domain Reload Profiling: 2151ms
+	BeginReloadAssembly (186ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (42ms)
+	RebuildCommonClasses (40ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (36ms)
+	LoadAllAssembliesAndSetupDomain (328ms)
+		LoadAssemblies (410ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (19ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (1546ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (896ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (36ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (127ms)
+			ProcessInitializeOnLoadAttributes (688ms)
+			ProcessInitializeOnLoadMethodAttributes (29ms)
+			AfterProcessingInitializeOnLoad (11ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Refreshing native plugins compatible for Editor in 3.79 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3145 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (31.2 KB). Loaded Objects now: 3716.
+Memory consumption went from 151.9 MB to 151.9 MB.
+Total: 3.336000 ms (FindLiveObjects: 0.281400 ms CreateObjectMapping: 0.275800 ms MarkObjects: 2.725300 ms  DeleteObjects: 0.052200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.549 seconds
+Refreshing native plugins compatible for Editor in 5.64 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.430 seconds
+Domain Reload Profiling: 1975ms
+	BeginReloadAssembly (184ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (40ms)
+	RebuildCommonClasses (42ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (35ms)
+	LoadAllAssembliesAndSetupDomain (272ms)
+		LoadAssemblies (356ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (18ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (1430ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (846ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (33ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (104ms)
+			ProcessInitializeOnLoadAttributes (662ms)
+			ProcessInitializeOnLoadMethodAttributes (34ms)
+			AfterProcessingInitializeOnLoad (9ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Refreshing native plugins compatible for Editor in 5.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3146 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (31.2 KB). Loaded Objects now: 3719.
+Memory consumption went from 154.1 MB to 154.1 MB.
+Total: 4.540700 ms (FindLiveObjects: 0.314400 ms CreateObjectMapping: 0.305200 ms MarkObjects: 3.857600 ms  DeleteObjects: 0.062100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 

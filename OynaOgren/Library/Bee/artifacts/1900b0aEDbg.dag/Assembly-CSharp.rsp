@@ -372,6 +372,8 @@
 "Assets/Gereksizler/Brick Project Studio/_BPS Basic Assets/Common/Scripts and Animations/Drawer/Z Axis/Drawer_Pull_Z.cs"
 "Assets/Gereksizler/Brick Project Studio/_BPS Basic Assets/Common/Scripts and Animations/Windows/opencloseWindow.cs"
 "Assets/Gereksizler/Brick Project Studio/_BPS Basic Assets/Common/Scripts and Animations/Windows/opencloseWindow1.cs"
+"Assets/Gereksizler/HouseholdItems/Scripts/MouseLook.cs"
+"Assets/Gereksizler/HouseholdItems/Scripts/PlayerMovement.cs"
 "Assets/Gereksizler/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
 "Assets/Gereksizler/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs"
 "Assets/Gereksizler/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs"

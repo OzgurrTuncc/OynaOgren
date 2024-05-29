@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class BagTagInteraction : MonoBehaviour
 {
@@ -8,10 +9,15 @@ public class BagTagInteraction : MonoBehaviour
         if (other.CompareTag("takeAble"))
         {
             esyaText.esyaAmount += 1;
+
             // Temas edilen nesneyi yok edin veya istediğiniz işlemi gerçekleştirin
             other.gameObject.SetActive(false);
-            //Debug.Log("Bag tag'ine sahip bir eşyaya temas edildi ve yok edildi."); // İsteğe bağlı olarak konsola bir mesaj yazdırabilirsiniz
-            // Buraya bag tag'ine sahip bir eşyaya temas edildiğinde gerçekleşmesini istediğiniz diğer işlemleri ekleyebilirsiniz
+
+            // esyaAmount 20 ise menü sahnesine geçiş yap
+            if (esyaText.esyaAmount >= 20)
+            {
+                SceneManager.LoadScene("menu"); // "menu" sahnesine geçiş yap
+            }
         }
     }
 }

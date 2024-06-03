@@ -9,6 +9,11 @@ TagManager:
   - pivot
   - bag
   - Interactable
+  - dogru
+  - yanlis
+  - yeniScene
+  - siradaki
+  - Player1
   layers:
   - Default
   - TransparentFX

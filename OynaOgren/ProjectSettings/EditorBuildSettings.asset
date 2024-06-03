@@ -11,4 +11,28 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Anaoyun.unity
     guid: 06db8b40c9740a44ea32f0266002716d
+  - enabled: 1
+    path: Assets/Scenes/itfaiye/itfaiyeEkran/itfaiyeEkran.unity
+    guid: 2cba9adfcb9c50e47afb9a4ed3be94ae
+  - enabled: 1
+    path: Assets/Scenes/itfaiye/itfaiyeEkran1/itfaiyeEkran1.unity
+    guid: 9ba45fd153cb66847bc6f96ae1559c1e
+  - enabled: 1
+    path: Assets/Scenes/itfaiye/itfaiyeEkran2/itfaiyeEkran2.unity
+    guid: ef8586e4f63575645aa2ad76167323d8
+  - enabled: 1
+    path: Assets/Scenes/itfaiye/itfaiyeEkran3/itfaiyeEkran3.unity
+    guid: 883a1246c3265b94f96a7896404bb895
+  - enabled: 1
+    path: Assets/Scenes/Anaoyun1.unity
+    guid: e56abcf332acf3a4ebd0a77dc1f5dd2c
+  - enabled: 1
+    path: Assets/Scenes/ambulans/ambulansEkran/ambulansEkran.unity
+    guid: 760f3b48f835d6145a2202d6baadc46e
+  - enabled: 1
+    path: Assets/Scenes/ambulans/ambulansEkran1/ambulansEkran1.unity
+    guid: 84f1dad83c8f8084e8f3a5a297bbf665
+  - enabled: 1
+    path: Assets/Scenes/ambulans/ambulansEkran2/ambulansEkran2.unity
+    guid: ae011454f33b4e5459459e1abd677767
   m_configObjects: {}

@@ -3,7 +3,7 @@ using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using System.Collections; // Sahne yönetimi için eklenmesi gereken kütüphane
 
-public class ButtonColorChanger7 : MonoBehaviour
+public class ButtonColorChanger6 : MonoBehaviour
 {
     private Button button;
     private bool clicked = false;
@@ -44,7 +44,7 @@ public class ButtonColorChanger7 : MonoBehaviour
     private IEnumerator WaitAndLoadScene()
     {
         yield return new WaitForSeconds(waitTime);
-        SceneManager.LoadScene(1); // Yeni sahnenin adýný yaz
+        SceneManager.LoadScene(10); // Yeni sahnenin adýný yaz
     }
 }
 

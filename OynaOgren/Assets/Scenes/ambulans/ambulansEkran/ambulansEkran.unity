@@ -1208,7 +1208,6 @@ GameObject:
   - component: {fileID: 1717551637}
   - component: {fileID: 1717551639}
   - component: {fileID: 1717551638}
-  - component: {fileID: 1717551640}
   m_Layer: 5
   m_Name: Soru 1)
   m_TagString: Untagged
@@ -1332,24 +1331,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1717551636}
   m_CullTransparentMesh: 1
---- !u!114 &1717551640
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1717551636}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cf60742057480f64dbcbd077edc5c770, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  questionText: {fileID: 1717551638}
-  answerButtons:
-  - {fileID: 571117378}
-  - {fileID: 847911188}
-  - {fileID: 1001109994}
-  - {fileID: 101275542}
 --- !u!1 &2031595725
 GameObject:
   m_ObjectHideFlags: 0

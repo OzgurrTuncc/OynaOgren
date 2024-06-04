@@ -254,7 +254,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 101275541}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 97c3e8952a90982469689eba7468a9e7, type: 3}
+  m_Script: {fileID: 11500000, guid: e4ba178444c5afc449231789034521ab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &294039508
@@ -628,7 +628,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 571117376}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 97c3e8952a90982469689eba7468a9e7, type: 3}
+  m_Script: {fileID: 11500000, guid: e4ba178444c5afc449231789034521ab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &847911187
@@ -762,7 +762,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 847911187}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 97c3e8952a90982469689eba7468a9e7, type: 3}
+  m_Script: {fileID: 11500000, guid: e4ba178444c5afc449231789034521ab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1001109993
@@ -896,7 +896,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1001109993}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 97c3e8952a90982469689eba7468a9e7, type: 3}
+  m_Script: {fileID: 11500000, guid: e4ba178444c5afc449231789034521ab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1292825996
@@ -1190,7 +1190,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 2800000, guid: 27a31e6bd08eb8747bcbae2c26ebf581, type: 3}
+  m_Texture: {fileID: 2800000, guid: 0e100be6344659345ac217837756817a, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
@@ -1208,9 +1208,8 @@ GameObject:
   - component: {fileID: 1717551637}
   - component: {fileID: 1717551639}
   - component: {fileID: 1717551638}
-  - component: {fileID: 1717551640}
   m_Layer: 5
-  m_Name: Soru 1)
+  m_Name: Soru 3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1332,24 +1331,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1717551636}
   m_CullTransparentMesh: 1
---- !u!114 &1717551640
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1717551636}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cf60742057480f64dbcbd077edc5c770, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  questionText: {fileID: 1717551638}
-  answerButtons:
-  - {fileID: 571117378}
-  - {fileID: 847911188}
-  - {fileID: 1001109994}
-  - {fileID: 101275542}
 --- !u!1 &2031595725
 GameObject:
   m_ObjectHideFlags: 0
@@ -1467,7 +1448,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2031595725}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cf60742057480f64dbcbd077edc5c770, type: 3}
+  m_Script: {fileID: 11500000, guid: 81a1c0dbb5e65b24a94a6afa380cd10b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   questionText: {fileID: 1717551638}

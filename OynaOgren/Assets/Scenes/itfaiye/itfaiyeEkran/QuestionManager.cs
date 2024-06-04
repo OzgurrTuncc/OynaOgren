@@ -10,7 +10,7 @@ public class QuestionManager : MonoBehaviour
 
     // Sorular ve cevaplar
     private string[] questions = { "Soru 1) Ýtfaiye aracý hangi acil durumda kullanýlýr?" };
-    private string[] answers = { "A) Yangýn söndürme", "B) Su taþýma", "C) Yol yapýmý", "Çöp toplama" };
+    private string[] answers = { "A) Yangýn söndürme", "B) Su taþýma", "C) Yol yapýmý", "D) Çöp toplama" };
 
     private void Start()
     {

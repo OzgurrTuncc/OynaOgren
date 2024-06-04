@@ -34,5 +34,26 @@ EditorBuildSettings:
     guid: 84f1dad83c8f8084e8f3a5a297bbf665
   - enabled: 1
     path: Assets/Scenes/ambulans/ambulansEkran2/ambulansEkran2.unity
-    guid: ae011454f33b4e5459459e1abd677767
+    guid: 2163bcb807e620a4ea0f4be25abe8459
+  - enabled: 1
+    path: Assets/Scenes/ambulans/ambulansEkran3/ambulansEkran3.unity
+    guid: a1eb4d6825081504f8e8054bb217ab74
+  - enabled: 1
+    path: Assets/Scenes/Anaoyun2.unity
+    guid: 38c03fcf6c8818b409d8a9643672982b
+  - enabled: 1
+    path: Assets/Scenes/polis/polisEkran/polisEkran.unity
+    guid: 8f95243e6b34a24499d5c24d7b09021e
+  - enabled: 1
+    path: Assets/Scenes/polis/polisEkran1/polisEkran1.unity
+    guid: bda688debfef36f4cbfddcfd19e9b35b
+  - enabled: 1
+    path: Assets/Scenes/polis/polisEkran2/polisEkran2.unity
+    guid: 38644ec55692feb4398f4dc61745ad40
+  - enabled: 1
+    path: Assets/Scenes/polis/polisEkran3/polisEkran3.unity
+    guid: fd33108e06a22e342abd36b1375c07be
+  - enabled: 1
+    path: Assets/Scenes/esyaToplama.unity
+    guid: 17ca216697e81914a9df419b1b1afb04
   m_configObjects: {}

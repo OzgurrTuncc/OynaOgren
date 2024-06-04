@@ -10,8 +10,7 @@ public class QuestionManager7 : MonoBehaviour
 
     // Sorular ve cevaplar
     private string[] questions = { "Soru 4) Ambulans sürücüsü ne giyer?" };
-    private string[] answers = { "A) Astronot kýyafeti", "B) Denizci üniformasý", "C) Ýþ takým elbisesi", "D) Saðlýk çalýþaný üniformasý " };
-
+    private string[] answers = { "A) Astronot kýyafeti", "B) Denizci üniformasý", "C) Ýþ takým elbisesi", "D) Saðlýk çalýþaný üniformasý" };
     private void Start()
     {
         // Fare imlecini görünür yap

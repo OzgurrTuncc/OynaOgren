@@ -16,7 +16,7 @@ public class BagTagInteraction : MonoBehaviour
             // esyaAmount 20 ise menü sahnesine geçiş yap
             if (esyaText.esyaAmount >= 20)
             {
-                SceneManager.LoadScene("menu"); // "menu" sahnesine geçiş yap
+                SceneManager.LoadScene(17); // "menu" sahnesine geçiş yap
             }
         }
     }

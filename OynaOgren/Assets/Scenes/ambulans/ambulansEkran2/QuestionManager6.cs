@@ -9,9 +9,8 @@ public class QuestionManager6 : MonoBehaviour
     public Button[] answerButtons; // Cevap düðmeleri
 
     // Sorular ve cevaplar
-    private string[] questions = { "Soru 2) Ambulansýn içinde genellikle ne bulunur?\r\n" };
-    private string[] answers = { "A) Oyun konsolu", "B) Yatak ve týbbi ekipman", "C) Mutfak seti", "D) Spor aletleri " };
-
+    private string[] questions = { "Soru 3) Ambulansýn içinde genellikle ne bulunur?" };
+    private string[] answers = { "A) Oyun konsolu", "B) Yatak ve týbbi ekipman", "C) Mutfak seti", "D) Spor aletleri" };
     private void Start()
     {
         // Fare imlecini görünür yap

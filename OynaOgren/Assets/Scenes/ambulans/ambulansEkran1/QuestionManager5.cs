@@ -12,6 +12,8 @@ public class QuestionManager5 : MonoBehaviour
     private string[] questions = { "Soru 2) Ambulansý aramak için hamgi numarayý tuþlamalýyýz?" };
     private string[] answers = { "A) 777", "B) 145", "C)112", "D) 121" };
 
+   
+
     private void Start()
     {
         // Fare imlecini görünür yap

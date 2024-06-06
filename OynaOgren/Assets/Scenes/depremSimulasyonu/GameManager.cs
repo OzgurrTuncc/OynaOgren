@@ -6,17 +6,17 @@ public class GameManager : MonoBehaviour
 {
     public KameraSarsintisi kameraSarsintisi;
     public Transform guvenliBolge;
-    public float startDelay = 5.0f; // Deprem baþlamadan önceki süre
-    public GameObject congratulationsText; // UI Text GameObject
+    public float startDelay = 5.0f; 
+    public GameObject congratulationsText; 
     private bool depremDevam = false;
     private Transform playerTransform;
 
     void Start()
     {
-        // Depremi belirli bir süre sonra baþlat
+        
         Invoke("DepremBaslat", startDelay);
 
-        // Oyuncu transformunu bul
+        
         GameObject player = GameObject.FindGameObjectWithTag("Player");
         if (player != null)
         {
@@ -60,12 +60,12 @@ public class GameManager : MonoBehaviour
         if (congratulationsText != null)
         {
             congratulationsText.SetActive(true);
-            Invoke("SonrakiSahneyeGec", 5.0f); // 5 saniye bekle ve sahneyi deðiþtir
+            Invoke("SonrakiSahneyeGec", 5.0f); 
         }
     }
 
     void SonrakiSahneyeGec()
     {
-        SceneManager.LoadScene(0); // "NextScene" yerine geçmek istediðiniz sahnenin adýný yazýn
+        SceneManager.LoadScene(0); 
     }
 }

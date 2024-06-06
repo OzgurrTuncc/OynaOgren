@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
-using System.Collections; // Sahne yönetimi için eklenmesi gereken kütüphane
+using System.Collections; 
 
 public class ButtonColorChanger6 : MonoBehaviour
 {
@@ -27,7 +27,7 @@ public class ButtonColorChanger6 : MonoBehaviour
         {
             button.image.color = greenColor;
             StartCoroutine(WaitAndLoadScene());
-            /*SceneManager.LoadScene("Sahne3"); // "Sahne3" yerine geçmek istediðin sahnenin adýný yaz*/
+            
         }
         else if (button.CompareTag("yanlis"))
         {
@@ -44,7 +44,7 @@ public class ButtonColorChanger6 : MonoBehaviour
     private IEnumerator WaitAndLoadScene()
     {
         yield return new WaitForSeconds(waitTime);
-        SceneManager.LoadScene(10); // Yeni sahnenin adýný yaz
+        SceneManager.LoadScene(10); 
     }
 }
 
